@@ -1,0 +1,52 @@
+.container{
+    border:1px solid black;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+.wrapper{
+    display: flex;
+    justify-content: row;
+    margin-left: 50px;
+}
+.firstName{
+    font-size: 22px;
+    width: 500px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-right: 40px;
+    
+}
+.click{
+    padding: 10px 20px;
+}
+.lastName{
+    margin: 21px 0 0 0;
+    font-size: 22px;
+}
+.wrapper{
+    margin-right: 140px;
+}
+.radio{
+    margin-right: 14px;
+    padding: 10px 20px;
+}
+.label{
+    font-size: 22px;
+   
+    /* margin-right: 70px; */
+    /* text-align: center; */
+}
+.item{
+    margin-top: 20px;
+}
+button{
+    height: 50px;
+    width: 20%;
+    border-radius: 12px;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 0 0 40px 100px;
+}
